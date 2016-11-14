@@ -1,0 +1,5 @@
+uddiexplore
+/home/weblogic/Oracle/Middleware/user_projects/domains/base_domain/servers/AdminServer/tmp/_WL_internal/uddiexplorer/5f6ebw/war/
+
+/var/www/joomla/config.php
+

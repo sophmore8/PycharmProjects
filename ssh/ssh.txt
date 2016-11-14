@@ -1,0 +1,5 @@
+#ip|||用户名|||密码|||需要执行的命令
+#192.168.78.145|||weblogic|||weblogic123|||whoami
+
+192.168.78.145|||weblogic|||weblogic123|||id
+192.168.78.146|||weblogic|||weblogic123|||id
